@@ -2,7 +2,7 @@
 
 In this assignment, I have created and manipulated Pandas DataFrames to analyze school scores and budgets data and showcase trends in school performance.
 
-I've been asked to analyze the district-wide standardized test results. In [Resources](PyCitySchools/Resources) are the inicial datasets with every student's math and reading scores, as well as various information on the schools they attend.
+You can find the analysis notebook [here](PyCitySchools/analysisPyCitySchools.ipynb). In [Resources](PyCitySchools/Resources) are the inicial datasets with every student's math and reading scores, as well as various information on the schools they attend.
 
 - - -
 
