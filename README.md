@@ -8,7 +8,15 @@ I've been asked to analyze the district-wide standardized test results. In [Reso
 
 ## Report
 
+In this research, data from 15 schools were analysed, with a total of 39,170 students. The total budget for all schools is $24,649,428. Although 85% passed Reading and 75% passed Maths, only 65% passed both subjects.
 
+The best performing school (by overall passing percentage) is Cabrera High School. And the worst performer is Rodriguez High School.
+
+In an analysis of Scores by School Spending, we can observe that the schools with the lowest spending ranges are the ones with the best performance. The group of schools that spends on average $581 per student has an Overall Passing Rate of 90.4%. While the group of schools that spend the most (an average of $650 per student) has a performance of 53.7%.
+
+In addition, this analysis has shown that smaller schools perform better. Small schools have an overall pass rate of 90.3%, medium schools 74.7% and large schools 53.7%.
+
+Finally, according to the analysis by School Type, Charter schools have a much higher performance (90.4%) compared to District schools (53.7%).
 
 - - -
 
