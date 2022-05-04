@@ -20,7 +20,7 @@ Finally, according to the analysis by School Type, Charter schools have a much h
 
 - - -
 
-## what is included in the analysis
+## What is included in the analysis
 
 ### District Summary
 
