@@ -20,6 +20,8 @@ Finally, according to the analysis by School Type, Charter schools have a much h
 
 - - -
 
+## what is included in the analysis
+
 ### District Summary
 
 I have created a high-level snapshot, in a DataFrame, of the district's key metrics, including the following:
